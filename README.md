@@ -1,5 +1,5 @@
 # gh-add-people-to-repo
-Organizationのリポジトリに、そのOrganizationに属するチームのアクセス件を追加するスクリプト。  
+Organizationのリポジトリに、そのOrganizationに属するチームのアクセス権を追加するスクリプト。  
 
 ## 使い方
 
