@@ -1,0 +1,27 @@
+{
+  "name": "gh-add-people-to-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRsawaguchi/gh-add-people-to-repo.git"
+  },
+  "author": "SRsawaguchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SRsawaguchi/gh-add-people-to-repo/issues"
+  },
+  "homepage": "https://github.com/SRsawaguchi/gh-add-people-to-repo#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.7",
+    "commander": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1"
+  }
+}
